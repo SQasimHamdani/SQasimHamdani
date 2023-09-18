@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Syed+Qasim.;I+love+open-source.;I+love+Blender.;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Syed+Qasim.;I+love+open-source.;I+love+Bots;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50"></a>
 </p>
 
 <p>
@@ -78,16 +78,16 @@ Here are some ideas to get you started:
 <p>
 <div align="center">
 	<a href="https://twitter.com/syed_eth" rel="nofollow">
-  		<img alt="Syed Qasim's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
+  		<img alt="Syed Qasim's Twitter" width="22px" src="https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png" style="max-width: 100%;">
 	</a>
 	<a href="https://www.linkedin.com/in/sqasimhamdani/" rel="nofollow">
-  		<img alt="Syed Qasim's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
+  		<img alt="Syed Qasim's LinkedIn" width="22px" src="https://camo.githubusercontent.com/00974afc84e6984c98cb5c971879e88b31387aa90f1f91795586266a48d2ed88/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6c696e6b6564696e" style="max-width: 100%;">
 	</a>
 </div>
 </p>
 
 # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
-
+<!-- 
 <br/>
 <p align="left">
   <a href="http://GalicticNFTStudio.io/">
@@ -95,9 +95,9 @@ Here are some ideas to get you started:
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SQasimHamdani&theme=radical&hide_border=true">		  
   </a>
 </p>
-<br>
+<br> -->
 
-[![Syed's Activity Graph](https://activity-graph.herokuapp.com/graph?username=SQasimHamdani&custom_title=Syed's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](http://GalicticNFTStudio.io/)
+[Syed's Activity Graph](http://GalicticNFTStudio.io/)
 
 <p align="center">
   <a href="http://torrinleonard.com/">
